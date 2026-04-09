@@ -2,7 +2,7 @@
   "name": "expense",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eshika14997.github.io/tracker",
+  "homepage": "https://eshika14997.github.io/expense",
   "deploy": "gh-pages -d build",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
